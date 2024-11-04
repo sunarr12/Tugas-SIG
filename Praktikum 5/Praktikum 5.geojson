@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "Praktikum 5",
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "Nama": "Jakarta", "Tahun": 2024, "Populasi": "11.436.000", "Luas": "661,5" }, "geometry": { "type": "Point", "coordinates": [ 106.83198192765775, -6.176331281675644 ] } },
+{ "type": "Feature", "id": 1, "properties": { "Nama": "Bekasi", "Tahun": 2024, "Populasi": "2,53", "Luas": "210,5" }, "geometry": { "type": "Point", "coordinates": [ 106.995499433055841, -6.232830373075828 ] } },
+{ "type": "Feature", "id": 2, "properties": { "Nama": "Depok", "Tahun": 2024, "Populasi": "3.133.300", "Luas": "200,3" }, "geometry": { "type": "Point", "coordinates": [ 106.818903649617255, -6.41161010708349 ] } },
+{ "type": "Feature", "id": 3, "properties": { "Nama": "Tangerang", "Tahun": 2024, "Populasi": "2,570,980", "Luas": "164,5" }, "geometry": { "type": "Point", "coordinates": [ 106.640703745874703, -6.179189707890089 ] } },
+{ "type": "Feature", "id": 4, "properties": { "Nama": "Tangerang selatan", "Tahun": 2024, "Populasi": "1.429.529", "Luas": "164,86" }, "geometry": { "type": "Point", "coordinates": [ 106.715926338366501, -6.320615234598961 ] } }
+]
+}
